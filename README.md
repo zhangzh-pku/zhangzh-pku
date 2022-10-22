@@ -1,7 +1,7 @@
-- 深势科技在职
-- 字节边缘计算summer
+- 深势科技 机器学习平台开发工程师
 - 苦逼秋招人
 - 北大混子
+
 
 <!---
 zhangzh-pku/zhangzh-pku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
