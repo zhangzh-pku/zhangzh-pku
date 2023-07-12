@@ -1,5 +1,4 @@
 - 2023年7月毕业于北京大学
-- 在看infra/quant/web3机会
 - rust、solidity学习中
 
 
