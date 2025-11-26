@@ -1,5 +1,4 @@
-- 2023年7月毕业于北京大学
-- rust、solidity学习中
+- lovart dev
 
 
 <!---
